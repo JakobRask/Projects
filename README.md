@@ -1,2 +1,2 @@
 # Projects
-Data Science projects
+Selection of Data Science projects
