@@ -1,7 +1,8 @@
 streamlit
-streamlit_webrtc
-tensorflow
-keras
-cv2
-av
+PIL
+joblib
+math
+skimage
+sklearn
 numpy
+matplotlib
