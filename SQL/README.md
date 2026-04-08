@@ -38,18 +38,13 @@ It includes detailed information on:
 
 
 
-
 ⸻
 
-✅ Conclusions
-- 
-- 
+✅ Conclusions- 
 
 ⸻
 
 💡 Recommendations
-- 
-- 
 
 ⸻
 
