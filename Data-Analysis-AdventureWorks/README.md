@@ -18,7 +18,7 @@ The analysis includes:
 
 The AdventureWorks2022 dataset is a sample relational database representing a fictional manufacturing company. 
 It includes detailed information on:
--  Sales: Orders, revenue, and product performance
+- Sales: Orders, revenue, and product performance
 - Customers: Demographics and purchasing behavior
 - Products: Categories, pricing, and inventory
 - Territories: Geographic sales distribution
