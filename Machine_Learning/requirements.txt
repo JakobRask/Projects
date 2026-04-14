@@ -1,8 +1,0 @@
-streamlit
-PIL
-joblib
-math
-skimage
-sklearn
-numpy
-matplotlib
