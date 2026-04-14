@@ -1,5 +1,6 @@
 ﻿# 📊 AdventureWorks Business Insights Dashboard (Power BI)
 
+
 ## 🧭 Overview
 
 This project showcases an end-to-end data analytics workflow using Power BI on the AdventureWorks dataset. 
@@ -9,44 +10,43 @@ The dashboard provides a clear view of sales performance, customer behavior, and
 ⸻
 
 ## 🎯 Objectives
-• Analyze sales performance across products and regions
-• Identify key revenue drivers and trends
-• Understand customer purchasing behavior
-• Deliver a clean, interactive dashboard for stakeholders
+- Analyze sales performance across products and regions
+- Identify key revenue drivers and trends
+- Understand customer purchasing behavior
+- Deliver a clean, interactive dashboard for stakeholders
 
 ⸻
 
-📂 Dataset
+## 📂 Dataset
 
 The AdventureWorks dataset is a sample database that simulates a manufacturing company.
 
 ⸻
 
-🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
 📊 Data Visualization
-• Power BI Desktop
+- Power BI Desktop
 
 🧮 Data Modeling
-• Star schema design
-• Fact and dimension tables
-• Relationship management
+- Star schema design
+- Fact and dimension tables
+- Relationship management
 
 ⚙️ Data Transformation
-• Power Query (ETL)
-• Data cleaning
-• Column transformations
-• Merging & appending tables
+- Power Query (ETL)
+- Data cleaning
+- Column transformations
+- Merging & appending tables
 
 📐 Data Analysis (DAX)
-• Measures and calculated columns
-• Time intelligence functions
-• KPI calculations
+- Measures and calculated columns
+- Time intelligence functions
+- KPI calculations
 
 ⸻
 
-📈 Dashboard Features
-
+## 📈 Dashboard Features
 - Drill Down hierarchy
 - Drill Through
 - Conditional formatting
@@ -59,57 +59,14 @@ The AdventureWorks dataset is a sample database that simulates a manufacturing c
 
 ⸻
 
-📊 Key Visualizations
-• Line charts for sales trends
-• Bar charts for category performance
-• Maps for geographic insights
-• KPI cards for high-level metrics
-• Slicers for interactive filtering
+## 🧠 Key Insights
+- A small number of products drive a large portion of total revenue
+- Certain regions consistently outperform others
 
 ⸻
 
-🧠 Key Insights
-• A small number of products drive a large portion of total revenue
-• Certain regions consistently outperform others
-• Sales show clear seasonal patterns
-• Returning customers contribute significantly to revenue stability
-
-⸻
-
-📌 Business Recommendations
-• Focus marketing efforts on high-performing regions
-• Optimizing inventory for top-selling products
-• Develop retention strategies for repeat customers
-• Investigate underperforming regions for growth opportunities
-
-⸻
-
-
-🖼️ Dashboard Preview
-
-(Add screenshots here for maximum impact)
-
-⸻
-
-💼 Skills Demonstrated
-
-🔹 Data Analytics
-• Exploratory data analysis
-• Business insight generation
-• KPI design
-
-🔹 Power BI
-• Interactive dashboard development
-• Data storytelling
-• UX-focused report design
-
-🔹 Data Modeling
-• Star schema implementation
-• Relationship optimization
-
-🔹 DAX
-• Time intelligence (YTD, YoY)
-• Aggregations and calculated measures
-
-🔹 ETL
-• Data cleaning and transformation using Power Query
+## 📌 Business Recommendations
+- Focus marketing efforts on high-performing regions
+- Optimizing inventory for top-selling products
+- Develop retention strategies for repeat customers
+- Investigate underperforming regions for growth opportunities
