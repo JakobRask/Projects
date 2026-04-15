@@ -11,13 +11,11 @@ Developing and evaluating two models:
 
 Both models are deployed in a Streamlit web app to perform real-time emotion detection using a webcam, allowing side-by-side comparison.
 
-⸻
 
 ## 📂 Dataset
 - Source: Kaggle – Face Expression Recognition Dataset
 - Classes (7 emotions): Angry, Disgust, Fear, Happy, Neutral, Sad, Surprise
 
-⸻
 
 ## 🧠 Models
 
@@ -36,7 +34,6 @@ Both models are deployed in a Streamlit web app to perform real-time emotion det
 - Happy: 85% accuracy score (best predicted)
 - Fear: 39% accuracy score (worst predicted)
 
-⸻
 
 ### 2. MobileNetV2 (Transfer Learning)
 - Pretrained MobileNetV2 model
@@ -49,20 +46,17 @@ Both models are deployed in a Streamlit web app to perform real-time emotion det
 - Happy: 76% accuracy score (best predicted)
 - Fear: 47% accuracy score (worst predicted)
 
-⸻
 
 ## ⚖️ Model Comparison
 - The CNN model achieves higher overall accuracy score.
 - The MobileNetV2 model provides more consistent predictions across classes.
 
-⸻
 
 ## 📊 Evaluation
 - Confusion Matrix used for detailed performance analysis
 - Strong performance on Happy
 - Difficulty distinguishing Fear from similar expressions
 
-⸻
 
 ## 🎥 Real-Time Application
 
@@ -78,7 +72,6 @@ A Streamlit app is implemented to:
 - ⚡ Parallel inference (CNN vs MobileNetV2)
 - 📺 Live comparison interface
 
-⸻
 
 ## 🛠️ Tech Stack
 - Python
