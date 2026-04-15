@@ -7,7 +7,6 @@ This project showcases an end-to-end data analytics workflow using Power BI on t
 The goal is to transform raw business data into actionable insights through data modeling, visualization, and dashboard design.
 The dashboard provides a clear view of sales performance, customer behavior, and regional trends, enabling data-driven decision-making.
 
-⸻
 
 ## 🎯 Objectives
 - Analyze sales performance across products and regions
@@ -15,36 +14,32 @@ The dashboard provides a clear view of sales performance, customer behavior, and
 - Understand customer purchasing behavior
 - Deliver a clean, interactive dashboard for stakeholders
 
-⸻
 
 ## 📂 Dataset
-
 The AdventureWorks dataset is a sample database that simulates a manufacturing company.
 
-⸻
 
 ## 🛠️ Tools & Technologies
 
-📊 Data Visualization
+### 📊 Data Visualization
 - Power BI Desktop
 
-🧮 Data Modeling
+### 🧮 Data Modeling
 - Star schema design
 - Fact and dimension tables
 - Relationship management
 
-⚙️ Data Transformation
+### ⚙️ Data Transformation
 - Power Query (ETL)
 - Data cleaning
 - Column transformations
 - Merging & appending tables
 
-📐 Data Analysis (DAX)
+### 📐 Data Analysis (DAX)
 - Measures and calculated columns
 - Time intelligence functions
 - KPI calculations
 
-⸻
 
 ## 📈 Dashboard Features
 - Drill Down hierarchy
@@ -57,13 +52,11 @@ The AdventureWorks dataset is a sample database that simulates a manufacturing c
 - Data with clickable URL
 - Calendar dimension (DAX)
 
-⸻
 
 ## 🧠 Key Insights
 - A small number of products drive a large portion of total revenue
 - Certain regions consistently outperform others
 
-⸻
 
 ## 📌 Business Recommendations
 - Focus marketing efforts on high-performing regions
