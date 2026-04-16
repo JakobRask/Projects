@@ -3,17 +3,16 @@
 ## 🧭 Overview
 This project showcases an end-to-end data analytics workflow using Power BI on the AdventureWorks dataset. 
 The goal is to transform raw business data into actionable insights through data modeling, visualization, and dashboard design.
-The dashboard provides a clear view of sales performance, customer behavior, and regional trends, enabling data-driven decision-making. <br />
+The dashboard provides a clear view of sales performance, customer behavior, and regional trends, enabling data-driven decision-making.
 
 ## 🎯 Objectives
 - Analyze sales performance across products and regions
 - Identify key revenue drivers and trends
 - Understand customer purchasing behavior
 - Deliver a clean, interactive dashboard for stakeholders
-<br />
 
 ## 📂 Dataset
-The AdventureWorks dataset is a sample database that simulates a manufacturing company. <br />
+The AdventureWorks dataset is a sample database that simulates a manufacturing company.
 
 ## 🛠️ Tools & Technologies
 
@@ -35,7 +34,7 @@ The AdventureWorks dataset is a sample database that simulates a manufacturing c
 - Measures and calculated columns
 - Time intelligence functions
 - KPI calculations
-<br />
+
 
 ## 📈 Dashboard Features
 - Drill Down hierarchy
@@ -47,12 +46,12 @@ The AdventureWorks dataset is a sample database that simulates a manufacturing c
 - Mobile-adapted part of the report
 - Data with clickable URL
 - Calendar dimension (DAX)
-<br />
+
 
 ## 🧠 Key Insights
 - A small number of products drive a large portion of total revenue
 - Certain regions consistently outperform others
-<br />
+
 
 ## 📌 Business Recommendations
 - Focus marketing efforts on high-performing regions
