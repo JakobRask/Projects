@@ -1,8 +1,6 @@
 ﻿# 📊 AdventureWorks Business Insights Dashboard (Power BI)
 
-
 ## 🧭 Overview
-
 This project showcases an end-to-end data analytics workflow using Power BI on the AdventureWorks dataset. 
 The goal is to transform raw business data into actionable insights through data modeling, visualization, and dashboard design.
 The dashboard provides a clear view of sales performance, customer behavior, and regional trends, enabling data-driven decision-making.
