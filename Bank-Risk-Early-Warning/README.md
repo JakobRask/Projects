@@ -19,3 +19,4 @@ Simulating banking risk management to identify emerging credit risks before they
 - Power BI
 
 ## Dashboard
+<img src="img/dashboard.png" alt="Dashboard" width="400">
