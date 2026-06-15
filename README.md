@@ -15,7 +15,15 @@ End-to-end data analytics workflow using Power BI
 
 Tools: Power BI, Data Modeling, DAX
 
+### Bank Risk Early Warning System
 
+Data analytics workflow using Power BI
+- Built an interactive dashboard
+- Performed data cleaning and transformation
+- Developed KRIs and business metrics
+- Delivered insights for decision-making through visualization
+
+Tools: Python, SQL, Power BI, Data Modeling, DAX
 
 ### Data Analysis – AdventureWorks 2022
 
