@@ -2,6 +2,9 @@
 
 Simulating banking risk management to identify emerging credit risks before they breach risk appetite thresholds.
 
+## Dataset
+Kaggle dataset - "Give me some credit"
+
 ## Features
 
 - Probability of Default model
