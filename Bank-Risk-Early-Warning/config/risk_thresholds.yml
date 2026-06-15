@@ -1,0 +1,7 @@
+default_rate:
+  green: 3
+  amber: 5
+
+delinquency_rate:
+  green: 4
+  amber: 8
