@@ -1,6 +1,6 @@
 # Bank Risk Early Warning System
 
-A simulated banking risk management platform designed to identify emerging credit risks before they breach risk appetite thresholds.
+Simulating banking risk management to identify emerging credit risks before they breach risk appetite thresholds.
 
 ## Features
 
@@ -8,21 +8,6 @@ A simulated banking risk management platform designed to identify emerging credi
 - Risk scoring engine
 - KRI monitoring
 - Traffic-light risk appetite framework
-- Automated alert generation
-- Monthly management reporting
-- SQL risk analytics
-
-## Business Value
-
-This project demonstrates:
-
-- Risk Identification
-- Risk Assessment
-- Risk Monitoring
-- Risk Reporting
-- Quantitative Analytics
-- Governance & Controls
-- Early Warning Indicators
 
 ## Technologies
 
@@ -31,5 +16,6 @@ This project demonstrates:
 - Scikit-Learn
 - Pandas
 - YAML
-- Jupyter
 - Power BI
+
+## Dashboard
